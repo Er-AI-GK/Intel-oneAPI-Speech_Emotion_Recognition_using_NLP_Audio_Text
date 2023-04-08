@@ -6,3 +6,4 @@ nltk
 re
 sklearn
 streamlit
+pickle
