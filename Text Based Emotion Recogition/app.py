@@ -10,8 +10,7 @@ st.write("""
 
 This app detects the emotion of a given text
 
-Data obtained from Kaggle: https://www.kaggle.com/datasets/praveengovi/emotions-dataset-for-nlp.
-""")
+Data obtained from IEMOCAP & RAVDESS
 
 st.sidebar.header('User Input')
 
