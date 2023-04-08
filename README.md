@@ -33,7 +33,7 @@ So, we introduced the NLP using **Audio and Text**.
 
 ### 6. Finally, I deploy my model using Streamlit framework
 
-## Datasets
+## Datasets ![](https://cdn-icons-png.flaticon.com/128/6802/6802146.png)
 - IEMOCAP
 - RAVDESS
 ## Deployment ![image](https://user-images.githubusercontent.com/72274851/218502434-f6e66043-0db0-4f85-b7f4-f33b2d33df1f.png)
