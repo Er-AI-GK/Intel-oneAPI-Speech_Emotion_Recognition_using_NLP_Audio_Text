@@ -92,6 +92,5 @@ https://user-images.githubusercontent.com/106463633/230747801-461227dd-2b4a-42d1
 https://devmesh.intel.com/projects/intel-oneapi-based-emotion-recognition-using-nlp-audio-text
 
 ## Get Start Your Intel oneAPI project 
-
-### ==> https://devcloud.intel.com/oneapi/
-### ==> www.oneapi.io/open-source/
+==> https://devcloud.intel.com/oneapi/
+==> www.oneapi.io/open-source/
