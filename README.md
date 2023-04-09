@@ -38,7 +38,7 @@ So, we introduced the NLP using **Audio and Text**.
 - IEMOCAP
 - RAVDESS
 
-## Train & Accuracy => 84 %
+## Train & Accuracy 
 https://user-images.githubusercontent.com/106463633/230749292-59d4f1cc-4aa8-4dfe-98af-2413da4d4a68.mp4
 
 ## Deployment ![image](https://user-images.githubusercontent.com/72274851/218502434-f6e66043-0db0-4f85-b7f4-f33b2d33df1f.png)
@@ -81,4 +81,7 @@ on Intel CPUs and GPUs. Deep learning practitioners should use one of the
 https://user-images.githubusercontent.com/106463633/230747801-461227dd-2b4a-42d1-a1bc-5bf72014d939.mp4
 
 
-## Get Start Your Intel oneAPI project ==> https://devcloud.intel.com/oneapi/
+## Get Start Your Intel oneAPI project 
+
+### ==> https://devcloud.intel.com/oneapi/
+### ==> www.oneapi.io/open-source/
