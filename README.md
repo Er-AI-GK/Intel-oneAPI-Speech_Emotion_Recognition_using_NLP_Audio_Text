@@ -38,7 +38,7 @@ So, we introduced the NLP using **Audio and Text**.
 - IEMOCAP
 - RAVDESS
 
-## Train & Accuracy 
+## Train & Accuracy => 84 %
 https://user-images.githubusercontent.com/106463633/230749292-59d4f1cc-4aa8-4dfe-98af-2413da4d4a68.mp4
 
 ## Deployment ![image](https://user-images.githubusercontent.com/72274851/218502434-f6e66043-0db0-4f85-b7f4-f33b2d33df1f.png)
