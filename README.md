@@ -38,6 +38,14 @@ So, we introduced the NLP using **Audio and Text**.
 - IEMOCAP
 - RAVDESS
 
+## Technologies Used
+- Jupyter Lab ( Intel oneAPI 2023 ) kernal
+- TensorFlow
+- Keras
+- Streamlit
+- NLTK
+- Pickle
+
 ## Train & Accuracy 
 https://user-images.githubusercontent.com/106463633/230749292-59d4f1cc-4aa8-4dfe-98af-2413da4d4a68.mp4
 
