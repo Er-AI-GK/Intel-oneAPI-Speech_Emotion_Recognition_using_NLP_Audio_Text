@@ -77,4 +77,4 @@ on Intel CPUs and GPUs. Deep learning practitioners should use one of the
 https://user-images.githubusercontent.com/106463633/230747801-461227dd-2b4a-42d1-a1bc-5bf72014d939.mp4
 
 
-
+Get Start Your Intel oneAPI project ==> https://devcloud.intel.com/oneapi/
