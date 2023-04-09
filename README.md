@@ -88,6 +88,8 @@ on Intel CPUs and GPUs. Deep learning practitioners should use one of the
 ## Result & Output ![icon](https://cdn-icons-png.flaticon.com/128/5316/5316486.png)
 https://user-images.githubusercontent.com/106463633/230747801-461227dd-2b4a-42d1-a1bc-5bf72014d939.mp4
 
+## Intel DevMesh
+https://devmesh.intel.com/projects/intel-oneapi-based-emotion-recognition-using-nlp-audio-text
 
 ## Get Start Your Intel oneAPI project 
 
