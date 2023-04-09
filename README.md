@@ -50,6 +50,7 @@ So, we introduced the NLP using **Audio and Text**.
 streamlit run app.py
   
 ```
+https://user-images.githubusercontent.com/106463633/230747715-5a312479-ea23-443a-8a11-01ee70b7c294.mp4
 
 ## Role of oneAPI DNN
 In this project we used large amount of dataset so normally it's take long time process.
