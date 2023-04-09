@@ -24,7 +24,7 @@ So, we introduced the NLP using **Audio and Text**.
 
 ### 1. First I Import libraries in Intel oneAPI kernal
 
-### 2. Prepocess the  dataset
+### 2. Preprocess the  dataset
 
 ### 3. Stemming using **NLTK Library**
 
