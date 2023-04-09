@@ -1,3 +1,4 @@
+![Untitled](https://user-images.githubusercontent.com/106463633/230747827-b3db1985-59c8-4792-9af7-f8eca83a496f.png)
 
 # Intel oneAPI Speech Emotion Recognition using NLP Audio & Text
 
@@ -71,3 +72,9 @@ oneDNN is intended for deep learning applications and framework
 developers interested in improving application performance
 on Intel CPUs and GPUs. Deep learning practitioners should use one of the
 [applications enabled with oneDNN](#applications-enabled-with-onednn).
+
+## Result & Output
+https://user-images.githubusercontent.com/106463633/230747801-461227dd-2b4a-42d1-a1bc-5bf72014d939.mp4
+
+
+
