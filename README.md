@@ -73,7 +73,7 @@ developers interested in improving application performance
 on Intel CPUs and GPUs. Deep learning practitioners should use one of the
 [applications enabled with oneDNN](#applications-enabled-with-onednn).
 
-## Result & Output
+## Result & Output https://cdn-icons-png.flaticon.com/128/5316/5316486.png
 https://user-images.githubusercontent.com/106463633/230747801-461227dd-2b4a-42d1-a1bc-5bf72014d939.mp4
 
 
